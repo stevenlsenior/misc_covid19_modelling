@@ -2,8 +2,6 @@
 # This script pulls data from the national dashboard on
 # COVID-19 healthcare data and plots it
 
-# not currently working!
-
 #### Load Packages ####
 library(ukcovid19)
 library(tidyverse)
